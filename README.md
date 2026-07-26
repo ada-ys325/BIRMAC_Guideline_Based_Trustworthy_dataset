@@ -259,8 +259,7 @@ For each claim:
 
 The answer-level atomic factual consistency support rate is calculated as:
 
-$$
-\text{Atomic FCM Support Rate}
+$$\text{Atomic FCM Support Rate}
 =
 \frac{\text{Number of supported atomic claims}}
 {\text{Number of evaluable atomic claims}}
