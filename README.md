@@ -26,6 +26,21 @@
   information.
 </p>
 
+---
+
+## Dataset Access
+
+The current release contains **6,514 guideline-grounded medical question–answer pairs** generated from clinical practice guidelines published between 2021 and 2025.
+
+The dataset is distributed as a JSONL file and is publicly available with read-only access:
+
+### [Download `full_data.jsonl` from Google Drive](https://drive.google.com/file/d/1VTBVW0fEGRCHLp2RUhrCGKv772knHLya/view?usp=sharing)
+
+Each record includes a patient-style question, a guideline-grounded answer, supporting passages, sentence-level citations, atomic medical claims, and factual consistency evaluation results.
+
+---
+
+
 ## Overview
 
 Clinical practice guidelines are among the most authoritative reference sources
